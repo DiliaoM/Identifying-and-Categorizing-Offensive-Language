@@ -2,7 +2,7 @@
  Code for second task
 This task is one of tasks in OffensEval 2019. [https://sites.google.com/site/offensevalsharedtask/offenseval2019]
 
-I am focus on the subtask-B: Automatic categorization of offense types.
+I have done the subtask-B: Automatic categorization of offense types.
 
 After doing the task A, we have known that if a tweet is offensive or not. To know more about the offensive tweets, we are curious about who they are targeting. So in this sub-task, we focus on categorizing offenses. Tweets are labeled from one of the following categories:
 
